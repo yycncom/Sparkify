@@ -11,3 +11,9 @@
    - Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes.
    - Use the machine learning APIs within Spark ML to build and tune models.
    - Integrate the skills Spark and the Data Scientist. 
+## Blog Link
+https://medium.com/@yycncom/predicting-churn-for-sparkify-6c795e65ce78
+
+## Installation
+
+Python3+,numpy,sklearn,pandas.Anaconda is proposed.There is no other installation requirment.
